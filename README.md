@@ -9,7 +9,7 @@ git clone https://github.com/Dahlawifauzi/octra_auto.git
 cd octra-auto
 ```
 
-edit dulu wallets.json dengan adress dan pk kelean
+edit dulu wallet.json dengan adress dan pk kelean
 ```sh
 {
   "priv": "ISI PRIVATE KEY",
@@ -30,8 +30,6 @@ oct4xxx5
 python3 send.py
 ```
 exploler octra : https://octrascan.io/
-# Cek tx multi address #
-https://octra-check-tx.vercel.app/
 
 ### Note : jika di vps pas ```install pip install aiohttp pynacl``` atau error pas run ```python3 multi.py``` pake cara ini 
 jika banyak wallet dan tx banyak pastikan membuat screen terlebih dahulu
