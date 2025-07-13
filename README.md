@@ -9,7 +9,7 @@ git clone https://github.com/Dahlawifauzi/octra_auto.git
 cd octra-auto
 ```
 
-edit dulu wallet.json dengan adress dan pk kelean
+edit dulu wallet.txt dengan adress dan pk kelean
 ```sh
 {
   "priv": "ISI PRIVATE KEY",
